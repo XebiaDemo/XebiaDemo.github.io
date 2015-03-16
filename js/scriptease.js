@@ -1,12 +1,3 @@
-$(window).on('beforeunload', function() {
-  $(window).scrollTop(0);
-});
-
-$('#price').click(function(){
-  $('#features').toggle("slow");
-  $('#backupfeature').toggle();
-});
-
 function toggleChevron(e) {
     $(e.target)
         .prev('.panel-heading')
