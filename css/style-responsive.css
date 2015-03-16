@@ -285,7 +285,7 @@
 		display: none;
 	}
 	#price {
-		margin-left: 400px;
+		/*margin-left: 400px;*/
 		overflow: hidden;
 	}
 	.man2 {
@@ -367,7 +367,7 @@
 	.section-page-landing.section-subscribe {
 		position: relative;
 		width: 400px;
-		top: 2px;
+		top: -40px;
 	}
 	.subscribe-responsive {
 		display: block;
