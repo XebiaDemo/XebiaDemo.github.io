@@ -329,7 +329,7 @@
 		left:52%;
 	}
 	.backupfeature-container {
-		position: relative;
+		position: absolute;
 		background: #ded6c6; 
 	}
 	.backupfeature-container h3 {
