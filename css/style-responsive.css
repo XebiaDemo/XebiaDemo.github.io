@@ -374,6 +374,7 @@
 	}
 	footer {
 		/*padding-top: 290px;*/
+		padding-top: 0;
 	}
 	.get_in_touch {
 		padding: 0 15px;
