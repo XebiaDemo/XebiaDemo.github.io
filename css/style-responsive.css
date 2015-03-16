@@ -145,7 +145,7 @@
 	.section-page-landing.section-beige {
 		position: relative;
 		/*margin-left: 400px;*/
-		top: 1477px;
+		top: 1377px;
 	}
 	.section-page-landing.section-beige h1 {
 		font-size: 25pt !important;
@@ -329,7 +329,7 @@
 		left:52%;
 	}
 	.backupfeature-container {
-		height: 100%;
+		height: 400px;
 		background: #ded6c6; 
 	}
 	.backupfeature-container h3 {
