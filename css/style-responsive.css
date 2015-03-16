@@ -224,7 +224,7 @@
 	#header-landing #nav-menu .menus {
 		float:none;
 		font-size:14px;
-		padding: 0;
+		padding: 3px;
 		text-align:center;
 	}
 	#header-landing #nav-menu .menus ul li a span {
