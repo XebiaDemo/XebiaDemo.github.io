@@ -203,8 +203,8 @@
 }
 
 @media (max-width:480px) {
-/*	#header-landing #nav-menu .menus ul li a {
-		padding:10px 10px;
+	#header-landing #nav-menu .menus ul li a {
+		padding:4px 4px;
 	}
 	h2.post-heading {
 		margin:0 0 15px 0;
@@ -216,7 +216,7 @@
 		position:relative;
 		display:block;
 		text-align:center;
-	}*/
+	}
 /*	main {
 	overflow-x: hidden;
   overflow-y: hidden;
