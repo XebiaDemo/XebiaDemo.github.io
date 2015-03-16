@@ -402,4 +402,7 @@
 		width: 70px;
 		height: 40px;
 	}
+	#subscribe input[type="text"] {
+		width: 80%;
+	}
 }
