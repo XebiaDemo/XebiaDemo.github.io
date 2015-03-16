@@ -25,7 +25,7 @@
   <body class="tooltips" id="top" data-spy="scroll" data-target="#myScrollspy">
 
 <!-- START PAGE -->
-<div class="wrapper">
+<div class="wrapper" id="skrollr-body">
       <!-- HEADER-->
       <div id="header-landing">
       
@@ -341,8 +341,10 @@
         <script src="js/vendor/jquery-1.9.1.min.js"></script>
         <script src="js/imagesloaded.js"></script>
         <script src="js/enquire.min.js"></script>
-        
-
+        <script src="js/skrollr.js"></script>
+        <script>
+          var s = skrollr.init();
+        </script>
         <script src="js/main2.js"></script>
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
         <script src="js/jquery.js"></script>
