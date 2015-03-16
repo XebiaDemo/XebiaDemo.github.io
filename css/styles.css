@@ -709,7 +709,7 @@ footer .footer {
 }
 /* Slide 1 */
 #slide-1 {
-
+background-image:url('/img/page1_bg.jpeg'); height: 679px;
 }
 #slide-1 .bcg {background-image:url('/img/page1_bg.jpeg'); height: 679px;}
 
