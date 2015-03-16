@@ -1,6 +1,5 @@
-$('#price').click(function(){
-  $('#features').toggle("slow");
-  $('#backupfeature').toggle();
+$(window).on('beforeunload', function() {
+  $(window).scrollTop(0);
 });
 
 function toggleChevron(e) {
