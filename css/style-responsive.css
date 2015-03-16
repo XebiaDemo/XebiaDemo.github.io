@@ -389,4 +389,7 @@
 	.navbar-default .navbar-toggle .icon-bar {
 		background-color: orange;
 	}
+	#header-landing #nav-menu {
+		padding: 0;
+	}
 }
