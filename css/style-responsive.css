@@ -367,13 +367,13 @@
 	.section-page-landing.section-subscribe {
 		position: relative;
 		width: 400px;
-		top: -40px;
+		top: -42px;
 	}
 	.subscribe-responsive {
 		display: block;
 	}
 	footer {
-		padding-top: 290px;
+		/*padding-top: 290px;*/
 	}
 	.get_in_touch {
 		padding: 0 15px;
