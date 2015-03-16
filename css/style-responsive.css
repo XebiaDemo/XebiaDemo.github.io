@@ -203,7 +203,7 @@
 }
 
 @media (max-width:480px) {
-	#header-landing #nav-menu .menus ul li a {
+/*	#header-landing #nav-menu .menus ul li a {
 		padding:10px 10px;
 	}
 	h2.post-heading {
@@ -216,15 +216,15 @@
 		position:relative;
 		display:block;
 		text-align:center;
-	}
+	}*/
 /*	main {
 	overflow-x: hidden;
   overflow-y: hidden;
 		}*/
-/*	#header-landing #nav-menu .menus {
+	#header-landing #nav-menu .menus {
 		float:none;
 		font-size:14px;
-		padding:5px 0;
+		padding: 0;
 		text-align:center;
 	}
 	#header-landing #nav-menu .menus ul li a span {
@@ -232,7 +232,7 @@
 	}
 	#header-landing #nav-menu .menus ul li a i {
 		display:inline-block;
-	}*/
+	}
 	#slide-1 {
 		position: relative;
 		background-color: #d8d1c1;
