@@ -221,7 +221,7 @@
 	overflow-x: hidden;
   overflow-y: hidden;
 		}*/
-	#header-landing #nav-menu .menus {
+/*	#header-landing #nav-menu .menus {
 		float:none;
 		font-size:14px;
 		padding:5px 0;
@@ -232,7 +232,7 @@
 	}
 	#header-landing #nav-menu .menus ul li a i {
 		display:inline-block;
-	}
+	}*/
 	#slide-1 {
 		position: relative;
 		background-color: #d8d1c1;
@@ -259,26 +259,26 @@
 		-webkit-animation-name: none;		
 	}
 	.manCycling {
-		left: 10%;
+		left: 5%;
 		width: 272px;
 		height: 250px;
 		top: 12%;
 	}
 	.brokenPhone {
 		top: 29%;
-		left: 5%;
+		left: 0%;
 		width: 100px;
 	}
 	.manShocked {
 		width: 300px;
 		height: 250px;
-		left: 5%;
+		left: 0%;
 		top: 60%;
 	}
 	.spaceShip {
 		width: 300px;
 		height: 150px;
-		left: 5%;
+		left: 0%;
 		top: 105%;
 	}
 	.man_wow {
