@@ -285,8 +285,8 @@
 		display: none;
 	}
 	#price {
-		/*margin-left: 400px;*/
-		/*overflow: hidden;*/
+		margin-left: 400px;
+		overflow: hidden;
 	}
 	.man2 {
 		width: 300px;
@@ -367,7 +367,7 @@
 	.section-page-landing.section-subscribe {
 		position: relative;
 		width: 400px;
-		top: 187px;
+		top: 2px;
 	}
 	.subscribe-responsive {
 		display: block;
