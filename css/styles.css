@@ -227,7 +227,6 @@ button.btn.btn-default.btn-teplok:hover,button.btn.btn-default.btn-teplok:focus,
 	background: url('/img/chat_bg.jpeg');
 	background-position: center center;
 	background-repeat: no-repeat;
-	background-attachment: scroll;
 	background-size: cover;
 	/*opacity: 0.8;*/
 	height: 100%;
