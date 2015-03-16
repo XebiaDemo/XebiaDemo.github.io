@@ -286,7 +286,7 @@
 	}
 	#price {
 		/*margin-left: 400px;*/
-		overflow: hidden;
+		/*overflow: hidden;*/
 	}
 	.man2 {
 		width: 300px;
@@ -367,7 +367,7 @@
 	.section-page-landing.section-subscribe {
 		position: relative;
 		width: 400px;
-		top: 287px;
+		top: 187px;
 	}
 	.subscribe-responsive {
 		display: block;
