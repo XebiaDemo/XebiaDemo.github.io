@@ -5,41 +5,33 @@
   <title>Flat Login Form</title>
   <link rel="stylesheet" href="css/mine.css">
   <link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Comfortaa|Amatic+SC|Aldrich|Julius+Sans+One|Gruppo|The+Girl+Next+Door|Megrim|Shadows+Into+Light|Orbitron|Reenie+Beanie|Bubbler+One"></link>
-	<link href="https://googledrive.com/host/0B2fOP9oGbP_bTDJkeVJ5NmxXRU0/droid.css" rel="stylesheet">
+  <link href="https://googledrive.com/host/0B2fOP9oGbP_bTDJkeVJ5NmxXRU0/droid.css" rel="stylesheet">
 </head>
 <body>
-<div class="form aniamted bounceIn">
   <div class="switch">
-    <i class="fa fa-pencil fa-times"></i>
-    <div class="tooltip animated rubberBand infinite">Click Me</div>
+    <span class="log">L</span>
+    <span class="dash">----------------------------------</span>
+    <span class="reg">R</span>
   </div>
-  <div class="login">
-    <h2>Login To Your Account</h2>
-    <form>
-      <input placeholder="Username" type="text"></input>
-      <input placeholder="Password" type="password"></input>
-      <button>Login</button>
-    </form>
+  <div class="login-container">
+    <h1>Login</h1>
+    <input type="text" placeholder="Username" required>
+    <input type="password" placeholder="password" required>
+    <input type="submit" value="Sign in">
   </div>
-  <div class="register">
-    <h2>Create An Account</h2>
-    <form>
-      <input placeholder="Username" type="text"></input>
-      <input placeholder="Password" type="password"></input>
-      <input placeholder="Confirm Password" type="password"></input>
-      <input placeholder="Email Address" type="email"></input>
-      <input placeholder="Birth Date (mm/dd/yy)" type="text"></input>
-      <button>Login</button>
-    </form>
-  </div>
-  <footer>
-    Made with
-    <i class="fa fa-heart animated infinite pulse"></i>
-    by
-    <a href="http://andytran.me">Andy Tran</a>
-  </footer>
-</div>
 
+  <div class="register-container">
+    <h1>Register</h1>
+    <input type="text" placeholder="First Name" required>
+    <input type="text" placeholder="Last Name" required>
+    <input type="email" placeholder="Your E-mail" required>
+    <input type="password" placeholder="password" required>
+    <input type="submit" value="Register">
+  </div>
+
+  <div class="copy-rights">
+    <h4>All Right Reserved To <a href="https://www.facebook.com/Bellal.mohamed" target="_blank">Bellal Mohamed</a> </h4>
+  </div>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   <script src="js/mine.js"></script>
 </body>
